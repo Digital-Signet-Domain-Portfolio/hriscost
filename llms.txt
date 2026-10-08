@@ -1,0 +1,54 @@
+# HRIS Software Cost (2026) - Live 3-year TCO Ledger | hriscost.com
+
+> HRIS software cost in 2026: published PEPM bands across 20 vendors, an interactive 3-year TCO ledger, and every figure sourced to the vendor's pricing page
+
+## Pages
+
+- [Home](https://hriscost.com): HRIS software cost in 2026 sits at $3-$29 PEPM for vendors that publish a list seat rate and $10-$45 PEPM for quote-only mid-market and...
+- [About hriscost.com - editorial standard, contact, funding](https://hriscost.com/about): About hriscost.com: built and maintained by Oliver Wakefield-Smith at Digital Signet. Editorial standard, corrections, funding model
+- [HRIS pricing changelog - diff history per vendor](https://hriscost.com/changelog): HRIS pricing changelog: when each vendor changed a price, by how much, and what we re-verified
+- [BambooHR vs Gusto cost in 2026](https://hriscost.com/compare/bamboohr-vs-gusto): BambooHR vs Gusto 2026: BambooHR Pro + Payroll ~$16 PEPM; Gusto Plus $80+$12 PEPM. Sub-100 employee fork comparison
+- [Deel vs Rippling cost in 2026](https://hriscost.com/compare/deel-vs-rippling): Deel vs Rippling 2026: Deel HR $5-$29 per employee + $599 EOR; Rippling $14-$18 PEPM HRIS + Rippling Global EOR. Global-first vs US-first
+- [Gusto vs Rippling cost in 2026](https://hriscost.com/compare/gusto-vs-rippling): Gusto vs Rippling 2026: Gusto Plus $80+$12 PEPM published; Rippling Core+Payroll $14-$18 PEPM quote-only. The "outgrew Gusto" decision modeled
+- [HiBob vs BambooHR cost in 2026](https://hriscost.com/compare/hibob-vs-bamboohr): HiBob vs BambooHR 2026: HiBob ~$18-$25 PEPM full suite; BambooHR Pro ~$10-$16 PEPM. Mid-market culture vs SMB ops
+- [Paylocity vs Paycom cost in 2026](https://hriscost.com/compare/paylocity-vs-paycom): Paylocity vs Paycom 2026: both quote-only. Paylocity $8-$28 PEPM, Paycom $10-$30 PEPM. Beti payroll model vs Paylocity Web Pay
+- [Rippling vs BambooHR cost in 2026](https://hriscost.com/compare/rippling-vs-bamboohr): Rippling vs BambooHR 2026: Rippling Core + Payroll + ATS lands $14-$18 PEPM; BambooHR Pro + Payroll lands $16-$20 PEPM. Side-by-side 3-year...
+- [Workday vs Rippling cost in 2026](https://hriscost.com/compare/workday-vs-rippling): Workday vs Rippling 2026: Workday HCM $25-$45 PEPM + $250K-$1.5M implementation; Rippling $14-$22 PEPM. Enterprise vs scale-up
+- [HRIS cost FAQ in 2026 - the 8 highest-AIO questions](https://hriscost.com/faq): HRIS cost FAQ 2026: average PEPM, implementation fees, why pricing is quote-only, contract uplift, free options under 50
+- [HRIS vs HCM vs payroll vs PEO in 2026 - what each costs and why](https://hriscost.com/guides/hris-vs-hcm-vs-payroll-vs-peo): HRIS vs HCM vs payroll vs PEO: functional differences, pricing models (PEPM, per-payroll-run, % of payroll), which to choose at 75-250 employees
+- [Mid-market HRIS cost in 2026 - 150 to 500 employees](https://hriscost.com/headcount/150-500): Mid-market HRIS cost for 250 employees: Paylocity, Paycom, HiBob, Rippling 3-year TCO with default modules and 12% renewal uplift
+- [HRIS for 100 employees cost in 2026 - real 3-year TCO](https://hriscost.com/headcount/50-150): HRIS cost for 100 employees in 2026: Rippling, BambooHR, HiBob, Gusto, Justworks side-by-side 3-year TCO with implementation and 12% uplift
+- [Enterprise HRIS cost in 2026 - 1,000+ employees](https://hriscost.com/headcount/500-plus): Enterprise HRIS cost in 2026: Workday HCM, UKG Pro, ADP WFN, Rippling at 1,000+ employees. 3-year TCO with SI implementation
+- [Cheapest HRIS for small business in 2026 - under 50 employees](https://hriscost.com/headcount/under-50): Cheapest HRIS for small business in 2026: Zoho People $3/user, Deel HR Core $5, Gusto Simple $49+$6. The Deel and Remote free HR tiers are gone
+- [HRIS data migration cost in 2026 - Gusto, Justworks, BambooHR](https://hriscost.com/line-items/data-migration): HRIS data migration cost in 2026: typical fees, fields that break, parallel-payroll period, realistic timelines
+- [HRIS implementation cost in 2026 - by vendor](https://hriscost.com/line-items/implementation-fee): HRIS implementation fees by vendor in 2026. Gusto $0, BambooHR $0-$4.5K, Rippling $3.5K-$12K, Paylocity $3K-$15K, Workday $250K-$1.5M
+- [HRIS integration cost in 2026 - API and connectors](https://hriscost.com/line-items/integration-fees): HRIS integration cost in 2026: Merge.dev and Finch connector fees, native vendor connector pricing, year-1 integration line items
+- [HRIS PEPM benchmark in 2026 - all 20 vendors](https://hriscost.com/line-items/per-employee-per-month): HRIS per-employee-per-month benchmark across 20 vendors in 2026. SMB $3-$12, mid-market $10-$25, enterprise $25-$45. With sources and provenance
+- [HRIS renewal price increase in 2026 - the 12% uplift clause](https://hriscost.com/line-items/renewal-uplift): HRIS renewal price increase: the 12% annual uplift clause, which contract structures carry the most uplift risk, how to cap it in...
+- [HRIS SSO tax in 2026 - which vendors gate SAML behind enterprise](https://hriscost.com/line-items/sso-tax): HRIS SSO tax 2026: which vendors gate SAML SSO behind enterprise tier, typical upcharge, SCIM bundling, negotiating it down
+- [HRIS cost methodology - how the ledger is built](https://hriscost.com/methodology): How hriscost.com builds the 3-year HRIS TCO ledger: input model, vendor data SSOT, quote-only estimate method, renewal-uplift derivation
+- [HRIS pricing sources - receipts drawer](https://hriscost.com/sources): Every PEPM figure on hriscost.com sourced. Vendor pricing URLs and capture dates for all 20 vendors plus industry references
+- [ADP Workforce Now cost in 2026 - Essential to HR Pro](https://hriscost.com/vendors/adp-workforce-now): ADP Workforce Now cost in 2026: quote-only, Essential ~$10 PEPM, HR Pro ~$28 PEPM. Per-payroll-run fees. Implementation $1.5K-$15K
+- [BambooHR pricing in 2026 - Core vs Pro PEPM + add-ons](https://hriscost.com/vendors/bamboohr): BambooHR pricing in 2026: Core and Pro tiers, PEPM for 25+ employees, flat monthly under 25. Add-ons for Payroll, Performance, Benefits Admin,...
+- [Deel HRIS cost in 2026 - HR from $5, EOR $599/employee](https://hriscost.com/vendors/deel): Deel pricing in 2026: Deel HR Core $5, Advanced $19, Elite $29 per employee per month. EOR $599 per EOR employee per month. Contractor management $49 per contractor per month
+- [Gusto pricing in 2026 - Simple, Plus, Premium + contractor](https://hriscost.com/vendors/gusto): Gusto pricing in 2026: Simple $49/mo + $6 PEPM, Plus $80 + $12, Premium $180 + $22, Contractor-only $35 + $6. All...
+- [HiBob pricing in 2026 - quote-only bands and modules](https://hriscost.com/vendors/hibob): HiBob pricing in 2026: quote-only with 50-seat minimum. Buying-committee Core ~$10 PEPM, full suite $18-$25 PEPM. Annual renewal uplift 7-12%
+- [Insperity cost in 2026 - PEO admin fee, benefits arbitrage](https://hriscost.com/vendors/insperity): Insperity 2026 cost: quote-only PEO admin fee $110-$180 PEPM. Workforce Optimization (PEO) and Workforce Acceleration (ASO)
+- [Justworks pricing in 2026 - Basic $59, Plus $109 PEPM](https://hriscost.com/vendors/justworks): Justworks 2026 pricing: Basic $59 PEPM, Plus $109 PEPM. Plus With Benefits ($159) discontinued in 2026 repricing
+- [Namely HRIS cost in 2026 - PEPM, Managed Payroll, modules](https://hriscost.com/vendors/namely): Namely HRIS cost in 2026: quote-only, buying-committee $12-$30 PEPM. 50-seat minimum. Managed Payroll separate. Implementation $2.5K-$12K
+- [Oyster HR pricing in 2026 - EOR USD 699/employee](https://hriscost.com/vendors/oysterhr): Oyster HR 2026 pricing: EOR USD 699 per employee/month, Global Contractors USD 29 per contractor/month after 30 days free, People Services USD 300 per hour
+- [Paychex Flex cost in 2026 - Essentials, Select, Pro](https://hriscost.com/vendors/paychex-flex): Paychex Flex 2026 cost: Essentials $39/mo + $5 PEPM (list). Select and Pro quote-only. Post-Paycor merger holds
+- [Paycom pricing in 2026 - quote-only seat-based bands](https://hriscost.com/vendors/paycom): Paycom pricing in 2026: quote-only, buying-committee $10-$30 PEPM. Beti payroll model bundled. Implementation $5K-$25K
+- [Paycor pricing in 2026 - Basic to Complete + Recruiting](https://hriscost.com/vendors/paycor): Paycor 2026 pricing: quote-only since 2025. Buying-committee Basic ~$99/mo + $5 PEPM. Under Paychex. Recruiting, Onboarding, Learning paid modules
+- [Paylocity pricing in 2026 - PEPM, implementation, modules](https://hriscost.com/vendors/paylocity): Paylocity pricing in 2026: quote-only, buying-committee $8-$28 PEPM. Implementation fee $3K-$15K. Per-payroll-run charging plus monthly base
+- [Remote.com HRIS cost in 2026 - EOR $699/employee](https://hriscost.com/vendors/remote-com): Remote.com 2026 pricing: EOR $699 per employee/month, Payroll $29 per employee/month, PEO from $99, Contractor Management $29 per contractor/month
+- [Rippling pricing in 2026 - PEPM, modules, real all-in cost](https://hriscost.com/vendors/rippling): Rippling pricing in 2026: platform PEPM band $8-$22 with Payroll, IT, Performance, and Recruiting as paid add-ons. Quote-only via sales form; buying-committee...
+- [Sapling HR cost in 2026 - under Kallidus, PEPM and add-ons](https://hriscost.com/vendors/sapling-kallidus): Sapling (Kallidus) HR cost in 2026: quote-only, buying-committee $4-$14 PEPM. Onboarding-led suite. Payroll requires integration partner
+- [Zenefits pricing 2026 - TriNet HR Platform tiers](https://hriscost.com/vendors/trinet-zenefits): TriNet HR Platform (formerly Zenefits) 2026 pricing: Essentials ~$8 PEPM, Zen ~$33 PEPM. Quote-only. TriNet PEO sold alongside
+- [UKG pricing in 2026 - Ready vs Pro, real annual cost](https://hriscost.com/vendors/ukg-pro): UKG pricing in 2026: Ready for SMB, Pro for 1,000+ employees, quote-only. Buying-committee $20-$40 PEPM. Implementation $100K-$750K
+- [Workday HCM cost in 2026 - PEPM, implementation, contract](https://hriscost.com/vendors/workday): Workday HCM cost in 2026: quote-only, buying-committee $25-$45 PEPM at 1,000-5,000 employees. SI implementation $250K-$1.5M
+- [Zoho People pricing in 2026 - US tiers from $3/user](https://hriscost.com/vendors/zoho-people): Zoho People 2026 US pricing: Essential HR $3, Workforce $5, Talent $5, Enterprise $8 per user/month billed annually. Free plan up to 3 users
+
+---
+
+*Generated 2026-08-26 from HRIS Software Cost (2026) - Live 3-year TCO Ledger | hriscost.com site source.*
