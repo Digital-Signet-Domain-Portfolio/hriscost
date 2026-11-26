@@ -1,0 +1,8 @@
+# hriscost.com: all crawlers welcome, including AI search and assistant crawlers
+# (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, Bingbot, Googlebot).
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: *
+Allow: /
+
+Sitemap: https://hriscost.com/sitemap.xml
